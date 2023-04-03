@@ -1,5 +1,8 @@
 """Ciclos FOR"""
 
-# Estructura
+# Estructura de un for 
 for numero in range(5):
     print(numero, numero * 'Hola mundo')
+
+#Se agregaron nuevas lineas
+#hola esta es la nueva estructiura de un ciclo 
