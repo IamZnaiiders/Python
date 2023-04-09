@@ -1,12 +1,12 @@
 """Ciclos FOR"""
-
-# Estructura de un for 
-#range crea una secuencia o un listado que va a iniciar desde el 0
-buscar=6
+xsz < z < A < z <
+# Estructura de un for
+# range crea una secuencia o un listado que va a iniciar desde el 0
+buscar = 6
 for numero in range(5):
     print(numero)
-    if numero ==buscar:
-        print('Encontrado => ',buscar)
+    if numero == buscar:
+        print('Encontrado => ', buscar)
         break
 else:
     print("No encontre el numero buscado")
@@ -19,4 +19,6 @@ else:
         comando = input("$ ")
         print(comando)
 
-#loop infinito 
+# loop infinito
+
+# Loop añ
