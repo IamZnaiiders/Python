@@ -1,4 +1,9 @@
-def suma(suma):
-    print(a + b )
 
-suma(2,5)
+def suma(*numeros): #Parametros iterables 
+    resultado = 0
+    for numero in numeros:
+        resultado += numero
+    print(resultado)
+
+
+suma(2, 6, 7)
