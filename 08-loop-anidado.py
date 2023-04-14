@@ -25,7 +25,6 @@ while(True):
     if op.lower()=="salir":   
         break
 
-
     siguienteNum = input("Ingresa el siguiente numero => ")
     if siguienteNum.lower()=="salir": 
         break  
@@ -40,6 +39,3 @@ while(True):
     else:
         print("Operacion no valida")
         break
-
-    
-        

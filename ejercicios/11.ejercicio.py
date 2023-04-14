@@ -5,7 +5,7 @@ Finalmente, mostrar al usuario la fecha con el formato DD / MM / AAAA."""
 
 cadena=int(input("Ingresa el día => "))
 cadena=str(cadena)
-#De esta manera podemos accesar a un rango de carcateres
+#De esta manera podemos acceder a un rango de carcateres.
 dia=cadena[0:2]
 mes=cadena[2:4]
 año=cadena[4:8]
